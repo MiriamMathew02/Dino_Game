@@ -42,3 +42,13 @@ python dino_jump.py
   
 ### Game Over:
 - The game ends when the velociraptor collides with an enemy. A "Game Over" screen is displayed.
+
+##The character images:
+- <a href="https://www.flaticon.com/free-icons/sun" title="sun icons">Sun icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/dinosaur" title="dinosaur icons">Dinosaur icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/stegosaurus" title="stegosaurus icons">Stegosaurus icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/dinosaur" title="dinosaur icons">Dinosaur icons created by Alex.stocker - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/dinosaur" title="dinosaur icons">Dinosaur icons created by Freepik - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/dinosaur-egg" title="dinosaur egg icons">Dinosaur egg icons created by Ina Mella - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/dinosaur-egg" title="dinosaur egg icons">Dinosaur egg icons created by Ina Mella - Flaticon</a>
+- <a href="https://www.flaticon.com/free-icons/dinosaur" title="dinosaur icons">Dinosaur icons created by Freepik - Flaticon</a>
