@@ -26,7 +26,7 @@ Place all the required image assets in the Images folder. Update the paths in th
 - Dinosaur Egg (dinosaur-egg.png)
 - Second Dinosaur Egg (dinosaur-egg (1).png)
 - Stegosaurus (stegosaurus (1).png)
-- 
+  
 ## How to Play
 ### Run the game:
 ```
